@@ -13,7 +13,7 @@ def pioneer
   pioneer = {
     name: "Grace Hopper"
   }
-  return pioneer[name]
+  return pioneer[name:]
 end
 
 
