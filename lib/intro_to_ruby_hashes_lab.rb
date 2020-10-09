@@ -13,10 +13,10 @@ def pioneer
   pioneer = {
     name: "Grace Hopper"
   }
-  return pioneer[name:]
+  puts pioneer[name]
 end
 
-
+pioneer
 def id_hash_generator(number)
   # return a hash with a key :id assigned to the provided number
 end
