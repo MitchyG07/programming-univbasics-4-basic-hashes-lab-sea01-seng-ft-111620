@@ -4,8 +4,8 @@ end
 
 def my_hash
   my_hash = {
-    :general = "LeMay" 
-    :podcast = "Gladwell"
+    general: "LeMay" 
+    podcast: "Gladwell"
   }
 end
 
