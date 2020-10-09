@@ -13,7 +13,7 @@ def pioneer
   pioneer = {
     :name => "Grace Hopper"
   }
-  return pioneer[:name].to_s
+  puts pioneer[:name].to_s
 end
 
 pioneer
