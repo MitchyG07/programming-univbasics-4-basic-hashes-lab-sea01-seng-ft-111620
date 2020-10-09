@@ -23,5 +23,5 @@ def id_hash_generator(number)
   puts new_hash[id]
 end
 
-id_hash_generator
+id_hash_generator(6)
 
