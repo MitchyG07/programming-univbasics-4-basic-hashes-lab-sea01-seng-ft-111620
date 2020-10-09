@@ -11,9 +11,9 @@ end
 
 def pioneer
   pioneer = {
-    name: "Grace Hopper"
+    :name => "Grace Hopper"
   }
-  puts pioneer[name]
+  puts pioneer[:name]
 end
 
 pioneer
